@@ -1,0 +1,4 @@
+duckdb
+certifi
+flet==0.85.3
+flet-desktop==0.85.3
